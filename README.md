@@ -16,7 +16,7 @@
   
 <div> 
   <a href="https://instagram.com/luiteemanuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5562981796360&text=Vim%20do%20Git-hub!%20"><img src="https://icons8.com.br/icons/set/whatsapp" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5562981796360&text=Vim%20do%20Git-hub!%20"><img src="https://gist.github.com/tarunvelagala/ad2a560e7e86208cadbd109c379ef6d9" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luite-emanuel-077716181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
