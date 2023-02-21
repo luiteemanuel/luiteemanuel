@@ -1,4 +1,4 @@
-##                         Olaa me chamo Luite Emanuel, Estudante de Data science" 
+##                         Olaa me chamo Luite Emanuel, Estudante de Data Engineer " 
 <div align="center">
   <a href="https://github.com/luiteemanuel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiteemanuel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
